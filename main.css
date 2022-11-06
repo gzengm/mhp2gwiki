@@ -1,0 +1,376 @@
+/* 全体の文字サイズ・背景色 */
+BODY,TD {
+FONT: 24px/1.5em "ＭＳ Ｐゴシック", Osaka, "ヒラギノ角ゴ Pro W3";
+COLOR: #ffffff;/* 文字色 */
+BACKGROUND-COLOR: #222222;/* 背景色 */
+}
+/* 左上・ページタイトル */
+DIV.pagetitle {
+PADDING-TOP: 10px;
+PADDING-BOTTOM: 2px;
+PADDING-LEFT: 2px;
+PADDING-RIGHT: 2px;
+FONT-WEIGHT: bold;
+FONT-SIZE: 30px;
+FLOAT: left;
+MARGIN: 1px;
+LETTER-SPACING: 0.2em
+}
+
+/* 右下・各種メニュー */
+.tools {
+PADDING: 3px;
+FONT-SIZE: 90%;
+MARGIN: 0px 0px 25px;
+COLOR: #fff;
+TEXT-ALIGN: right
+}
+
+/* 現在未使用 */
+DIV.main_head {
+TEXT-ALIGN: right
+}
+
+/* 左・メニューバー */
+.menubar {
+BORDER-RIGHT: #fff 1px dashed;/* 区切り線(白・1px・破線) */
+PADDING-RIGHT: 10px;/* 右パディング=10px */
+VERTICAL-ALIGN: top;
+word-break: keep-all;
+WIDTH: 200px;/* 幅=200px */
+}
+TD.main {
+/*BORDER-RIGHT: #fff 1px dashed;/* 区切り線(白・1px・破線) */
+VERTICAL-ALIGN: top;/* 上端揃え */
+WIDTH: 100%;/* 右側本文の割合 */
+/*WIDTH: 790px;/* 幅=200px */
+LINE-HEIGHT: 1.5em;/* 行の高さ=文字の1.5倍 */
+LETTER-SPACING: 1px;/* 文字の間隔=1px */
+}
+
+/* 大見出し */
+H1 {
+PADDING: 5px;
+MARGIN-TOP: 1px;
+FONT-SIZE: 20px;
+FONT-FAMILY: "Lucida Sans Unicode", Sans-serif;
+LETTER-SPACING: 0em
+}
+
+/* 中見出し */
+H2 {
+PADDING: 5px;
+BORDER: #fff 1px solid;
+MARGIN-TOP: 1px;
+FONT-WEIGHT: bold;
+FONT-SIZE: 27px;
+LETTER-SPACING: 0em
+}
+
+/* 小見出し */
+H3 {
+PADDING: 0px;
+BORDER-BOTTOM: #fff 3px double;
+FONT-WEIGHT: bold;
+FONT-SIZE: 24px;
+MARGIN: 1px;
+LETTER-SPACING: 0.1em
+}
+
+/* */
+H4 {
+PADDING-LEFT: 0.5em;
+FONT-WEIGHT: bold;
+FONT-SIZE: 21px;
+BORDER-BOTTOM: #fff 1px solid;
+LETTER-SPACING: 0.1em
+}
+
+/* */
+H5 {
+PADDING: 1px;
+BORDER-BOTTOM: #fff 1px dotted
+}
+
+/* */
+H6 {
+PADDING: 1px;
+BORDER-BOTTOM: #fff 1px dotted
+}
+
+HR {
+text-align: left;
+}
+
+/* リンク */
+A:link {/* 未アクセスの色 */
+COLOR: #48f;
+TEXT-DECORATION: none
+}
+A:visited {/* アクセス済みの色 */
+COLOR: #4cf;
+TEXT-DECORATION: none
+}
+A:hover {/* ポイント時の色 */
+COLOR: #fc4;
+TEXT-DECORATION: underline
+}
+A:active {/* アクティブ時の色 */
+COLOR: #4cf;
+TEXT-DECORATION: none
+}
+
+/* リスト */
+UL { /* 順序なしリスト */
+PADDING-LEFT: 16px;
+MARGIN: 1px;
+LINE-HEIGHT: 1.8em;
+LIST-STYLE-TYPE: disc
+}
+OL {
+PADDING-LEFT: 16px;
+MARGIN: 1px;
+LINE-HEIGHT: 1.8em;
+LIST-STYLE-TYPE: decimal
+}
+
+#menubar UL {
+LIST-STYLE-TYPE: none;
+LINE-HEIGHT: 1.4em;
+}
+
+#plugin_recent UL {
+LIST-STYLE-TYPE: disc;
+}
+
+/* 引用文 */
+BLOCKQUOTE {
+PADDING: 10px;
+BORDER: #fff 1px solid;
+WIDTH: 80%;
+}
+
+/* 定義リスト */
+DL {
+LINE-HEIGHT: 130%
+}
+DT {
+PADDING: 0px;
+MARGIN: 0.5em 0px 0px;
+font-weight:bold;
+BORDER-BOTTOM: #666 1px dashed
+}
+
+/* 整形済みテキスト */
+PRE {
+BACKGROUND: #333;
+PADDING: 0.5em;
+MARGIN-LEFT: 1em;
+MARGIN-RIGHT: 2em;
+COLOR: #fff;
+WHITE-SPACE: pre
+}
+
+/* 画像 */
+IMG {
+BORDER: 1px;
+VERTICAL-ALIGN: middle;
+}
+
+/* イタリック体 */
+EM {
+FONT-STYLE: italic
+}
+
+/* 強調 */
+STRONG {
+FONT-WEIGHT: bold
+}
+
+/* 連絡先 */
+ADDRESS {
+FONT-SIZE: 8px;
+FONT-STYLE: normal
+}
+
+/* 存在しないページへのリンク */
+A.noexistpage {
+COLOR: #111;
+BACKGROUND-COLOR: #ddd
+}
+A.noexistpage:visited {
+COLOR: #111
+}
+
+/* 更新履歴(未使用？) */
+.plugin_recent_list {
+BORDER: 1px;
+PADDING: 0px;
+MARGIN: 0px 0px 0px 1em;
+/* WORD-BREAK: break-all; IE独自仕様*/
+/* WORD-WRAP: break-word; IE独自仕様*/
+}
+
+/* 不明 */
+DIV.p_left {
+BORDER: #fff 1px dotted;
+TEXT-ALIGN: left
+}
+DIV.p_center {
+TEXT-ALIGN: center
+}
+DIV.p_right {
+TEXT-ALIGN: right
+}
+
+/*  */
+DIV.subsection {
+MARGIN: 1.4em 0px
+}
+
+/*  */
+SPAN.nointerwikiname {
+BACKGROUND-COLOR: #ffe
+}
+
+/* 警告 */
+P.warning {
+COLOR: #ff99be
+}
+SPAN.warning {
+COLOR: #ff99be
+}
+
+/*  */
+.hidden {
+DISPLAY: none
+}
+
+/* 差分表示 */
+SPAN.diff_add {
+COLOR: red
+}
+SPAN.diff_del {
+COLOR: #08F
+}
+
+/* 検索文字 */
+SPAN.search {
+COLOR: #fff;
+BACKGROUND-COLOR: yellow
+}
+
+
+DIV#editmenu {
+MARGIN-BOTTOM: 0.5em;
+TEXT-ALIGN: right
+}
+DIV#header {
+PADDING-RIGHT: 0px;
+PADDING-LEFT: 0px;
+PADDING-BOTTOM: 0px;
+MARGIN: 0px;
+PADDING-TOP: 0px;
+TEXT-ALIGN: left
+}
+
+#header H2 {
+BACKGROUND: none transparent scroll repeat 0% 0%
+}
+
+DIV#footer {
+TEXT-ALIGN: center
+}
+DIV.referer_attach {
+TEXT-ALIGN: right
+}
+DIV.referer_page {
+TEXT-ALIGN: right
+}
+
+DIV#main {
+BORDER-RIGHT: #fff 0px solid;
+PADDING-RIGHT: 8px;
+BORDER-TOP: #fff 0px solid;
+PADDING-LEFT: 8px;
+PADDING-BOTTOM: 8px;
+MARGIN: 0px;
+BORDER-LEFT: #fff 0px solid;
+PADDING-TOP: 8px;
+BORDER-BOTTOM: #fff 0px solid
+}
+
+DIV#ad {
+MARGIN: 100px 0px 10px
+}
+
+/* 検索結果 */
+SPAN.word1 {
+COLOR: black;
+BACKGROUND-COLOR: #ffff66
+}
+SPAN.word2 {
+COLOR: black;
+BACKGROUND-COLOR: #a0ffff
+}
+SPAN.word3 {
+COLOR: black;
+BACKGROUND-COLOR: #99ff99
+}
+SPAN.word4 {
+COLOR: black;
+BACKGROUND-COLOR: #ff9999
+}
+SPAN.word5 {
+COLOR: black;
+BACKGROUND-COLOR: #ff66ff
+}
+SPAN.word6 {
+COLOR: white;
+BACKGROUND-COLOR: #880000
+}
+SPAN.word7 {
+COLOR: white;
+BACKGROUND-COLOR: #00aa00
+}
+SPAN.word8 {
+COLOR: white;
+BACKGROUND-COLOR: #886800
+}
+SPAN.word9 {
+COLOR: white;
+BACKGROUND-COLOR: #004699
+}
+SPAN.word10 {
+COLOR: white;
+BACKGROUND-COLOR: #990099
+}
+
+/* 表 */
+#main TABLE {
+FONT-SIZE: 12px;
+FONT-FAMILY: "ＭＳ Ｐゴシック", Osaka, "ヒラギノ角ゴ Pro W3";
+LETTER-SPACING: 0.5px;
+BORDER-COLLAPSE: collapse;
+/*BACKGROUND-COLOR: #ccd5dd*/
+}
+#main TH {
+background-color: #007000;
+BORDER: #cccccc 2px solid;
+PADDING: 2px 1px 2px 3px;
+*PADDING: 2px 3px 2px 3px;
+font-weight: bold;
+COLOR: #ffffff;
+FONT-SIZE: 18px;
+LINE-HEIGHT: 21px;/* 表内改行ピッチ */
+FONT-FAMILY: "ＭＳ Ｐゴシック", Osaka, "ヒラギノ角ゴ Pro W3"
+}
+#main TD {
+BORDER: #ccc 2px solid;
+PADDING: 2px 1px 2px 3px;
+*PADDING: 2px 3px 2px 3px;
+FONT-SIZE: 24px;/* 表内文字サイズ */
+LINE-HEIGHT: 27px;/* 表内改行ピッチ */
+FONT-FAMILY: "ＭＳ Ｐゴシック", Osaka, "ヒラギノ角ゴ Pro W3";
+}
+/*#ads{display: none;}*/

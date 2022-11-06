@@ -1,0 +1,579 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+<OBJECT type="text/site properties">
+	<param name="Window Styles" value="0x800035">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="首页说明">
+		<param name="Local" value="default.html">
+		<param name="ImageNumber" value="2">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="怪物资料">
+		<param name="Local" value="default.html">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="BOSS资料">
+		<param name="Local" value="pages/127.html">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="女王蜂">
+		<param name="Local" value="pages/313.html">
+		<param name="ImageNumber" value="2">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="奇面王">
+		<param name="Local" value="pages/332.html">
+		<param name="ImageNumber" value="2">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="鸟龙种">
+		<param name="Local" value="pages/127.html">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="白速龙王">
+		<param name="Local" value="pages/184.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="蓝速龙王">
+		<param name="Local" value="pages/185.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="黄速龙王">
+		<param name="Local" value="pages/186.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="红速龙王">
+		<param name="Local" value="pages/187.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="大怪鸟">
+		<param name="Local" value="pages/128.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="青怪鸟">
+		<param name="Local" value="pages/188.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="黑狼鸟(片耳)">
+		<param name="Local" value="pages/191.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="黑狼鸟(两耳)">
+		<param name="Local" value="pages/681.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="毒怪鸟">
+		<param name="Local" value="pages/189.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="紫毒鸟">
+		<param name="Local" value="pages/190.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="眠鸟">
+		<param name="Local" value="pages/192.html">
+		</OBJECT>
+</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="飞龙种">
+		<param name="Local" value="pages/127.html">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="雌火龙">
+		<param name="Local" value="pages/193.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="樱火龙">
+		<param name="Local" value="pages/194.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="金火龙">
+		<param name="Local" value="pages/195.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="雄火龙">
+		<param name="Local" value="pages/196.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="苍火龙">
+		<param name="Local" value="pages/197.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="银火龙">
+		<param name="Local" value="pages/198.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="电龙">
+		<param name="Local" value="pages/199.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="红电龙">
+		<param name="Local" value="pages/200.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="岩龙">
+		<param name="Local" value="pages/205.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="铠龙">
+		<param name="Local" value="pages/206.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="黑铠龙">
+		<param name="Local" value="pages/207.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="一角龙">
+		<param name="Local" value="pages/201.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="白一角龙">
+		<param name="Local" value="pages/202.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="角龙">
+		<param name="Local" value="pages/203.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="黑角龙">
+		<param name="Local" value="pages/204.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="轰龙">
+		<param name="Local" value="pages/208.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="迅龙">
+		<param name="Local" value="pages/209.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="霸龙">
+		<param name="Local" value="pages/210.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="崩龙">
+		<param name="Local" value="pages/318.html">
+		</OBJECT>
+</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="鱼龙种">
+		<param name="Local" value="pages/127.html">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="沙龙王">
+		<param name="Local" value="pages/211.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="水龙">
+		<param name="Local" value="pages/212.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="翠水龙">
+		<param name="Local" value="pages/213.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="溶岩龙">
+		<param name="Local" value="pages/214.html">
+		</OBJECT>
+</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="甲壳种">
+		<param name="Local" value="pages/127.html">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="盾蟹">
+		<param name="Local" value="pages/215.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="紫盾蟹">
+		<param name="Local" value="pages/216.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="镰蟹">
+		<param name="Local" value="pages/217.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="赤镰蟹">
+		<param name="Local" value="pages/218.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="砦蟹">
+		<param name="Local" value="pages/219.html">
+		</OBJECT>
+</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="牙兽种">
+		<param name="Local" value="pages/127.html">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="大野猪王">
+		<param name="Local" value="pages/220.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="桃毛兽王">
+		<param name="Local" value="pages/221.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="绿毛兽">
+		<param name="Local" value="pages/222.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="雪狮子王">
+		<param name="Local" value="pages/223.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="砂狮子">
+		<param name="Local" value="pages/224.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="金狮子">
+		<param name="Local" value="pages/225.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="金狮子(激昂)">
+		<param name="Local" value="pages/641.html">
+		</OBJECT>
+</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="古龙种">
+		<param name="Local" value="pages/127.html">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="麒麟">
+		<param name="Local" value="pages/228.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="钢龙">
+		<param name="Local" value="pages/230.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="锈钢龙">
+		<param name="Local" value="pages/231.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="霞龙">
+		<param name="Local" value="pages/234.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="炎妃龙">
+		<param name="Local" value="pages/232.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="炎王龙">
+		<param name="Local" value="pages/233.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="老山龙">
+		<param name="Local" value="pages/226.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="苍老山龙">
+		<param name="Local" value="pages/227.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="浮游龙">
+		<param name="Local" value="pages/235.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="黑龙">
+		<param name="Local" value="pages/236.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="红黑龙">
+		<param name="Local" value="pages/237.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="祖龙">
+		<param name="Local" value="pages/238.html">
+		</OBJECT>
+</UL>
+</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="杂兵资料">
+		<param name="Local" value="pages/39.html">
+		<param name="ImageNumber" value="2">
+		</OBJECT>
+</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="任务情报">
+		<param name="Local" value="default.html">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="村长">
+		<param name="Local" value="pages/132.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="集会所">
+		<param name="Local" value="pages/135.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="训练所">
+		<param name="Local" value="pages/140.html">
+		</OBJECT>
+</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="武器情报">
+		<param name="Local" value="default.html">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="大剑">
+		<param name="Local" value="pages/146.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="太刀">
+		<param name="Local" value="pages/147.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="片手剑">
+		<param name="Local" value="pages/149.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="双刀">
+		<param name="Local" value="pages/150.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="锤">
+		<param name="Local" value="pages/151.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="笛子">
+		<param name="Local" value="pages/152.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="曲谱">
+		<param name="Local" value="pages/440.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="枪">
+		<param name="Local" value="pages/153.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="铳">
+		<param name="Local" value="pages/154.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="弓">
+		<param name="Local" value="pages/157.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="轻弩">
+		<param name="Local" value="pages/155.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="重弩">
+		<param name="Local" value="pages/156.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="弹性能">
+		<param name="Local" value="pages/530.html">
+		</OBJECT>
+</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="防具情报">
+		<param name="Local" value="default.html">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="剑士防具">
+		<param name="Local" value="pages/158.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="弓手防具">
+		<param name="Local" value="pages/159.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="公用防具">
+		<param name="Local" value="pages/338.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="特殊防具">
+		<param name="Local" value="pages/339.html">
+		</OBJECT>
+</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="技能情报">
+		<param name="Local" value="default.html">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="技能一览">
+		<param name="Local" value="pages/160.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="装饰品一览">
+		<param name="Local" value="pages/309.html">
+		</OBJECT>
+</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="地图情报">
+		<param name="Local" value="default.html">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="雪山">
+		<param name="Local" value="pages/71.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="密林">
+		<param name="Local" value="pages/72.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="旧密林">
+		<param name="Local" value="pages/74.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="沙漠">
+		<param name="Local" value="pages/75.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="旧沙漠">
+		<param name="Local" value="pages/76.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="沼地">
+		<param name="Local" value="pages/77.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="旧沼地">
+		<param name="Local" value="pages/78.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="火山">
+		<param name="Local" value="pages/79.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="旧火山">
+		<param name="Local" value="pages/80.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="森丘">
+		<param name="Local" value="pages/81.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="树海">
+		<param name="Local" value="pages/296.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="塔1">
+		<param name="Local" value="pages/83.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="塔2">
+		<param name="Local" value="pages/346.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="塔3">
+		<param name="Local" value="pages/347.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="砦">
+		<param name="Local" value="pages/84.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="街">
+		<param name="Local" value="pages/85.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="修雷特城">
+		<param name="Local" value="pages/86.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="决战场">
+		<param name="Local" value="pages/89.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="雪山深奥">
+		<param name="Local" value="pages/351.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="斗技场">
+		<param name="Local" value="pages/88.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="大斗技场">
+		<param name="Local" value="pages/87.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="水上斗技场">
+		<param name="Local" value="pages/345.html">
+		</OBJECT>
+</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="物品情报">
+		<param name="Local" value="default.html">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="物品一览">
+		<param name="Local" value="pages/48.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="商店情报">
+		<param name="Local" value="pages/176.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="调和情报">
+		<param name="Local" value="pages/177.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="交换情报">
+		<param name="Local" value="pages/61.html">
+		</OBJECT>
+</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="猫猫情报">
+		<param name="Local" value="default.html">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="猫猫厨房">
+		<param name="Local" value="pages/178.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="战斗猫">
+		<param name="Local" value="pages/179.html">
+		</OBJECT>
+</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="其他情报">
+		<param name="Local" value="default.html">
+		</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="工会名片">
+		<param name="Local" value="pages/100.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Gallery一览">
+		<param name="Local" value="pages/55.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="农场情报">
+		<param name="Local" value="pages/101.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="伤害计算">
+		<param name="Local" value="pages/919.html">
+		</OBJECT>
+</UL>
+</UL>
+</BODY>
+</HTML>
+
